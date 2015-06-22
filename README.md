@@ -1,6 +1,6 @@
 # ai-modern-approach
 
-A Clojure library designed to ... well, that part is up to you.
+Just testing out this whole github thing.
 
 ## Usage
 
